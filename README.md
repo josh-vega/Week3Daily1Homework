@@ -8,3 +8,4 @@ The notification bar should be able to start, pause and stop the music.
 
 Screenshot:
 
+![screenshot_20190122-015508_week3daily1homework](https://user-images.githubusercontent.com/46490503/51518495-1a2aa300-1dec-11e9-9ad2-c024178adddc.jpg)
